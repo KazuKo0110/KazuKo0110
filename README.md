@@ -25,7 +25,6 @@
  
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="html" height ="42px" src="https://cdn.discordapp.com/attachments/852237333427126291/898946500300787762/1200px-HTML5_logo_and_wordmark.svg.png"></a> 
  
- 
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="css" height ="42px" src="https://cdn.discordapp.com/attachments/852237333427126291/898946463999090738/CSS3_logo_and_wordmark.svg.png"></a> 
       
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="djs" height ="42px" src="https://cdn.discordapp.com/attachments/852902611824410634/915237328178511922/unknown.png"></a>
