@@ -1,7 +1,7 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Im+Tetsu+Calamïty)](https://git.io/typing-svg)
 
 
-<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/852902611824410634/915239952210595891/MOSHED-2021-11-30-14-56-37.gif" width="360px"/>
+<img align="right" alt="PNG" src="https://cdn.discordapp.com/attachments/852902611824410634/915239160057561088/84237AC8-3C37-4E1D-808A-2CC6A230700C.png" width="360px"/>
   
 ### 😖 About Me:
 
