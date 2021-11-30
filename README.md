@@ -23,7 +23,7 @@
 <br>
 
  
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="html" height ="42px" src="https://cdn.discordapp.com/attachments/852902611824410634/915242283878723584/unknown.png"></a> 
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="html" height ="50px" src="https://cdn.discordapp.com/attachments/852902611824410634/915242283878723584/unknown.png"></a> 
  
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="css" height ="42px" src="https://cdn.discordapp.com/attachments/852237333427126291/898946463999090738/CSS3_logo_and_wordmark.svg.png"></a> 
       
