@@ -32,7 +32,7 @@
 <img src="https://cdn.discordapp.com/attachments/852902611824410634/915241693748547604/unknown.png" height="42px">
 
 <br>
-<img src="https://cdn.discordapp.com/attachments/852902611824410634/915243003029897226/PinClipart.com_raspberry-clip-art_1077742.png" height="60px">
+<img src="https://cdn.discordapp.com/attachments/852902611824410634/915243003029897226/PinClipart.com_raspberry-clip-art_1077742.png" height="80px">
 
 
 
