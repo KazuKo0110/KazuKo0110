@@ -27,9 +27,9 @@
  
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="css" height ="42px" src="https://cdn.discordapp.com/attachments/852237333427126291/898946463999090738/CSS3_logo_and_wordmark.svg.png"></a> 
       
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="djs" height ="42px" src="https://cdn.discordapp.com/attachments/852902611824410634/915237328178511922/unknown.png"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="djs" height ="42px" src="https://cdn.discordapp.com/attachments/852902611824410634/915243410414272572/PikPng.com_python-logo-png_2301371.png"></a>
 
-<img src="https://cdn.discordapp.com/attachments/852902611824410634/915243410414272572/PikPng.com_python-logo-png_2301371.png" height="42px">
+<img src="https://cdn.discordapp.com/attachments/852902611824410634/915241693748547604/unknown.png" height="42px">
 
 <br>
 <img src="https://cdn.discordapp.com/attachments/852902611824410634/915243003029897226/PinClipart.com_raspberry-clip-art_1077742.png" height="80px">
