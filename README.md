@@ -47,7 +47,7 @@
    </div>
 
  
- 🐱‍💻 TryHackMe ! 🐱‍💻 <a href="https://tryhackme.com/p/Tetsu.Calamty" src="https://cdn.discordapp.com/attachments/852902611824410634/915238670208999464/Tetsu.Calamty.png"></a>
+ 🐱‍💻 TryHackMe ! 🐱‍💻 <a href="https://tryhackme.com/p/Tetsu.Calamty"> <img src="https://cdn.discordapp.com/attachments/852902611824410634/915238670208999464/Tetsu.Calamty.png"></a>
  
 
 </p>
