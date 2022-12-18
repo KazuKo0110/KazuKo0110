@@ -45,10 +45,6 @@
 <p align=center>
   <div align=center>
    </div>
-
- 
- 🐱‍💻 TryHackMe ! 🐱‍💻 
- <img src="https://cdn.discordapp.com/attachments/1053829958037946440/1053848357732364348/Tetsu.Calamty.png" alt="TryHackMe">
  
 
 </p>
