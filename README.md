@@ -8,9 +8,9 @@
 
 - 🛡️ &nbsp; CyberSecurity Student
 - 🌱 &nbsp; Learning IT Engineering
-- ⚡ &nbsp; Calamity Team Founder
-- 📫 &nbsp; im working with [Discord](https://discord.gg/overdrive) or contact me by [mail](mailto:calamitycorp@protonmail.com?subject=[Contact])
-- 🐻 &nbsp; my main goal is to reach SQUAD CyberSecurity.
+- ⚡ &nbsp; Calamity & NetRunner Team Founder
+- 📫 &nbsp; Contact me by [mail](mailto:calamitycorp@protonmail.com?subject=[Contact])
+- 🐻 &nbsp; my main goal is to reach OnePoint CyberSecurity.
 - 👨🏻‍💻 &nbsp; all of my project are on github [Github](https://github.com/WarHawkREVS?tab=repositories)
 - 💬 &nbsp; i teach basic CyberSecurity stuff
 
