@@ -1,7 +1,7 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Im+KazuKo0110+NetRunner)](https://git.io/typing-svg)
 
 
-<img align="right" alt="PNG" src="https://cdn.discordapp.com/attachments/852902611824410634/915239160057561088/84237AC8-3C37-4E1D-808A-2CC6A230700C.png" width="360px"/>
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/1047066592795709441/1054127561313108008/lucy-cyberpunk-edge-runner.gif" width="360px"/>
   
 ### 😖 About Me:
 
