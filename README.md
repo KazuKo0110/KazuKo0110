@@ -29,8 +29,6 @@
       
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="djs" height ="42px" src="https://cdn.discordapp.com/attachments/852902611824410634/915243410414272572/PikPng.com_python-logo-png_2301371.png"></a>
 
-<img src="https://cdn.discordapp.com/attachments/1047066592795709441/1054127561313108008/lucy-cyberpunk-edge-runner.gif" height="42px">
-
 <br>
 <img src="https://cdn.discordapp.com/attachments/852902611824410634/915243003029897226/PinClipart.com_raspberry-clip-art_1077742.png" height="80px">
 
