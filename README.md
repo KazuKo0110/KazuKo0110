@@ -48,7 +48,7 @@
 
  
  🐱‍💻 TryHackMe ! 🐱‍💻 
- <img src="https://tryhackme-badges.s3.amazonaws.com/Tetsu.Calamty.png" alt="TryHackMe">
+ <img src="https://cdn.discordapp.com/attachments/1053829958037946440/1053848357732364348/Tetsu.Calamty.png" alt="TryHackMe">
  
 
 </p>
